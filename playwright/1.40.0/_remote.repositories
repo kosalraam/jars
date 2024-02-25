@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 06 09:35:30 IST 2024
+playwright-1.40.0.jar>central=
+playwright-1.40.0.pom>central=
+playwright-1.40.0-sources.jar>central=
